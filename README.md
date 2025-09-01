@@ -7,4 +7,4 @@ Reverse Engineering Knowledge Section
 
 ---
 
-[Firmware Dump Challenge}(https://www.perplexity.ai/search/how-to-create-a-firmware-dump-CfzB9y6HREOp82pROMvFVw#0)
+[Firmware Dump Challenge](https://www.perplexity.ai/search/how-to-create-a-firmware-dump-CfzB9y6HREOp82pROMvFVw#0)
