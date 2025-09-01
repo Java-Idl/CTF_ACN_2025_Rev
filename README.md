@@ -5,6 +5,8 @@ Reverse Engineering Knowledge Section
 
 [reversing-challenges](https://github.com/topics/reversing-challenges)
 
+[Fluix's rev chall](https://fluix.one/blog/rev4-ctf/)
+
 ---
 [Firmware Dump Challenge](https://www.perplexity.ai/search/how-to-create-a-firmware-dump-CfzB9y6HREOp82pROMvFVw#0)
 
