@@ -16,3 +16,13 @@ should make it a bit more harder
 
 ----
 [RE CTFd](https://reversing.ctfd.io/)
+
+---
+# Misc
+- https://fluix.one/
+- https://how2rev.github.io/
+- https://github.com/serialwaffle/reverse-me
+- https://github.com/radareorg/iaito/
+- https://www.i-trace.org/pages/downloads
+- https://medium.com/@Andromeda./introduction-to-reverse-engineering-251d6432f7ec
+- https://binary.ninja/free/
