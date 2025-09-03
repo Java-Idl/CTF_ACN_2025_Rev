@@ -18,6 +18,11 @@ should make it a bit more harder
 [RE CTFd](https://reversing.ctfd.io/)
 
 ---
+# Crypto
+- https://www.devglan.com/online-tools/aes-encryption-decryption
+- https://www.boxentriq.com/code-breaking/cipher-identifier
+
+---
 # Misc
 - https://fluix.one/
 - https://how2rev.github.io/
